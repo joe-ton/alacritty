@@ -1,12 +1,12 @@
 [window]
-decorations = "full"
+decorations = "none"
 padding = { x = 10, y = 10 }
 dynamic_title = true
-opacity = 0.92
+startup_mode = "Fullscreen"
 
 [font]
 normal = { family = "FiraCode Nerd Font", style = "Regular" }
-size = 13.0
+size = 25.0
 offset = { x = 0, y = 2 }
 
 [colors.cursor]
